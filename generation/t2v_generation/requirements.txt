@@ -1,0 +1,14 @@
+torch
+diffusers>=0.37
+transformers
+accelerate
+bitsandbytes
+sentencepiece
+protobuf
+ftfy
+imageio
+imageio-ffmpeg
+pandas
+openpyxl
+python-dotenv
+huggingface_hub
